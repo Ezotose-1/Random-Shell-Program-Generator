@@ -1,5 +1,4 @@
 # Random Shell program Generator
-# Usefull 42Sh tester
 
 The Rnd_ShellPrg is a python program that will generate sequences of shell programs randomly.
 This program can generate few structure different : if condition and while/until loops.
